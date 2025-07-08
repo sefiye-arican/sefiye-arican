@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Şefiye Arıcan
 
 - 🔭 I’m currently working on deep learning-based fundus image analysis for multi-disease detection.  
-- 🌱 I’m currently learning more about super-resolution techniques (like ESRGAN), attention mechanisms, and hybrid CNN architectures such as ResNet, VGG16, and U-Net.  
+- 🌱 I’m currently learning more about super-resolution techniques (like ESRGAN), attention mechanisms, and hybrid CNN architectures such as ResNet, VGG16, MobileNet, and EfficientNet.  
 - 👯 I’m looking to collaborate on medical imaging, computer vision, and AI-driven healthcare solutions.  
 - 🤔 I’m looking for help with optimizing GAN-based models and advanced visualization techniques.  
 - 💬 Ask me about Python (especially in image processing), CLAHE, CNNs, transfer learning, and dataset preprocessing.  
